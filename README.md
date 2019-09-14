@@ -23,7 +23,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='<dice_roller_demo.gif' title='DiceRoller animated demo' alt='DiceRoller demo' />
+<img src='dice_roller_demo.gif' title='DiceRoller animated demo' alt='DiceRoller demo' />
 
 ## Notes
 
