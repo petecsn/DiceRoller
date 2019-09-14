@@ -1,19 +1,19 @@
-# <name of app>
+# Dice Roller
 
 An Android application that simulates a dice roll.
 
-Submitted by: <name>
+Submitted by: Peter Akala
 
-Time spent: <time>
+Time spent: 1 hour
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] Implemented LinearLayout view group.
-* [ ] Added interactive button.
-* [ ] Optimize app by using lateinit to search view hierarchy only once.
-* [ ] User can press button to simulate a die roll.
+* [X] Implemented LinearLayout view group.
+* [X] Added interactive button.
+* [X] Optimize app by using lateinit to search view hierarchy only once.
+* [X] User can press button to simulate a die roll.
 
 The following **additional** features are implemented:
 
@@ -31,7 +31,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-Copyright 2018 <name>
+Copyright 2018 Peter Akala
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
